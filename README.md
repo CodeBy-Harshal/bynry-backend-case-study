@@ -6,7 +6,7 @@ The goal of this case study is to demonstrate backend problem-solving skills, da
 
 ---
 
-## 📌 Contents
+## Contents
 
 - **Part 1:** Code Review & Debugging  
 - **Part 2:** Database Design  
@@ -17,7 +17,7 @@ Each section includes reasoning, edge cases, and business context.
 
 ---
 
-## 🧠 Tech & Concepts Used
+## Tech & Concepts Used
 
 - REST API design
 - Transaction handling
@@ -27,6 +27,13 @@ Each section includes reasoning, edge cases, and business context.
 
 ---
 
-## ℹ️ Note
+## Case Study Document
+
+A complete written solution (DOC format) is available here: 
+    https://docs.google.com/document/d/1c4-KMETjEUNgzucqI4dePonWTSql2ay_/edit?usp=sharing&ouid=116057736576965725318&rtpof=true&sd=true
+
+---
+
+## Note
 
 This repository is intended for **evaluation and discussion purposes** and is not a production-ready application.
